@@ -1,0 +1,65 @@
+html {
+  font-size: 10px;
+}
+
+svg {
+  margin-left: auto;
+  margin-right: auto;
+  border: gold solid 2px;
+  border-radius: 5px;
+  width: 90vw;
+  height: 75vh;
+}
+
+.tooltip {
+  position: absolute;
+  font-size: 1.5rem;
+  background: lightyellow;
+  padding: 3px;
+  border-radius: 2px;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+#footer > p {
+  margin-right: 10px;
+}
+
+#title {
+  font-size: 3rem;
+  padding: none;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+#description {
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 3px auto;
+}
+
+.intro {
+  font-size: 1.5rem;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 3px auto;
+}
+
+
+#svg-container {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+}
