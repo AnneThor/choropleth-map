@@ -11,6 +11,10 @@ svg {
   height: 75vh;
 }
 
+.states {
+  fill: none;
+}
+
 .tooltip {
   position: absolute;
   font-size: 1.5rem;
