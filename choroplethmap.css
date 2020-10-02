@@ -3,6 +3,7 @@ html {
 }
 
 svg {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border: gold solid 2px;
